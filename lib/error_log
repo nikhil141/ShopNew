@@ -1,0 +1,33 @@
+[06-Jun-2018 06:21:52 UTC] PHP Notice:  Undefined index: status_id in /home/mhsadmin/public_html/rsjestore/admin/lib/ebook.php on line 87
+[06-Jun-2018 07:39:35 UTC] PHP Notice:  Undefined index: details in /home/mhsadmin/public_html/rsjestore/admin/lib/ebook.php on line 10
+[06-Jun-2018 07:39:35 UTC] PHP Notice:  Undefined index: status_id in /home/mhsadmin/public_html/rsjestore/admin/lib/ebook.php on line 87
+[06-Jun-2018 07:39:38 UTC] PHP Notice:  Undefined index: status_id in /home/mhsadmin/public_html/rsjestore/admin/lib/ebook.php on line 87
+[13-Jun-2018 09:29:20 UTC] PHP Notice:  Undefined index: addon_name in /home/mhsadmin/public_html/rsjestore/admin/lib/subcategory.php on line 45
+[13-Jun-2018 09:29:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mhsadmin/public_html/rsjestore/admin/lib/subcategory.php on line 45
+[13-Jun-2018 09:30:12 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 9
+[13-Jun-2018 09:30:12 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:30:12 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:30:41 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 9
+[13-Jun-2018 09:30:41 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:30:41 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:31:12 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 9
+[13-Jun-2018 09:31:12 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:31:12 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:31:45 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 9
+[13-Jun-2018 09:31:45 UTC] PHP Notice:  Undefined index: benefits_image in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[13-Jun-2018 09:31:45 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/mhsadmin/public_html/rsjestore/admin/lib/benefits.php on line 10
+[28-Jun-2018 10:39:18 UTC] PHP Notice:  Undefined index: details in /home/mhsadmin/public_html/rsjestore/admin/lib/ebook.php on line 11
+[01-Aug-2018 10:09:41 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
+[01-Aug-2018 10:10:32 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
+[03-Aug-2018 07:39:03 UTC] PHP Notice:  Undefined index: seo_title in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 11
+[03-Aug-2018 07:39:03 UTC] PHP Notice:  Undefined index: seo_desc in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 13
+[03-Aug-2018 07:39:05 UTC] PHP Notice:  Undefined variable: name in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 86
+[03-Aug-2018 07:39:05 UTC] PHP Notice:  Undefined variable: email in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 226
+[03-Aug-2018 07:39:05 UTC] PHP Notice:  Undefined variable: password in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 228
+[03-Aug-2018 08:12:04 UTC] PHP Notice:  Undefined index: seo_title in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 11
+[03-Aug-2018 08:12:04 UTC] PHP Notice:  Undefined index: seo_desc in /home/mhsadmin/public_html/rsjestore/admin/lib/blog.php on line 13
+[04-Aug-2018 12:29:15 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
+[04-Aug-2018 12:29:37 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
+[04-Aug-2018 12:31:28 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
+[04-Aug-2018 12:32:04 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
+[04-Aug-2018 12:32:34 UTC] PHP Notice:  Undefined index: document_library_docx in /home/mhsadmin/public_html/rsjestore/admin/lib/document_labrary.php on line 88
